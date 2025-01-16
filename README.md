@@ -187,7 +187,7 @@ const securityExpertise = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babul-jack-712129239/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](babuljackdev.pythonanywhere.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://babuljackdev.pythonanywhere.com)
 [![Email](https://img.shields.io/badge/Email-494649?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babuljackdev@gmail.com)
 
 
