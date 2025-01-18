@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Full-Stack Developer | Security Expert | ML Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Full-Stack Developer | Security Expert | Machine Learning 
 </h1>
 
 <div align="center">
@@ -148,7 +148,7 @@ class Achievements:
         <b>🏆 Key Success Stories:</b><br>
         • Solved a critical proxy issue in hours that had stumped a team for 2 weeks<br>
         • Fixed a complex network problem in 10 hours that others couldn't solve in a month<br>
-        • Consistently deliver projects 10x faster than standard timelines
+        • Consistently deliver projects 3x faster than standard timelines
       </td>
     </tr>
   </table>
