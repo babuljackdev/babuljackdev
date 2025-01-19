@@ -196,3 +196,10 @@ const securityExpertise = {
 <div align="center">
   <i>💡 "Turning Complex Problems into Simple Solutions"</i>
 </div> 
+
+
+<br>
+<br>
+<div align="left">
+Note: Due to some issues, I closed my previous GitHub account. This is my new account, and I will be using it from now on. Thank you for your understanding!
+</div>
